@@ -42,11 +42,11 @@ The dataset was deliberately messy. We dealt with **7 distinct types of dirty da
 
 | File | Description |
 | :--- | :--- |
-| `Commute-Question_Statistics_Final_Report.pdf` | Complete final report (Executive Summary + Parts A–F). |
-| `Commute_Question_Statistics_CaseStudy_Cleaned.xlsx` | Excel file with Raw, Cleaned, Analysis, and Cleaning Log sheets. |
-| `Part_A_Classification.docx` | Variable classification answers (Nominal, Ordinal, Continuous, Discrete). |
-| `Part_B_Classification.docx` | Detailed decisions for each dirty data category. |
-| `Final_Conclusions_part C.xlsx` | Excel File with 2 sheets Descriptive_Statistics , Branch_Calculations Explain Steps for Descriptive Statistics .|
+| [Commute_Question_Statistics_Final_Report.pdf](./Commute_Question_Statistics_Final_Report.pdf) | Complete final report (Executive Summary + Parts A–F). |
+| [Commute_Question_Statistics_CaseStudy_Cleaned.xlsx](./Commute_Question_Statistics_CaseStudy_Cleaned.xlsx) | Excel file with Raw, Cleaned, Analysis, and Cleaning Log sheets. |
+| [Part_A_Classification.docx](./Part_A_Classification.docx) | Variable classification answers (Nominal, Ordinal, Continuous, Discrete). |
+| [Part_B_Classification.docx](./Part_B_Classification.docx) | Detailed decisions for each dirty data category. |
+| [Final_Conclusions_part C.xlsx](./Final_Conclusions_part%20C.xlsx) | Excel File with 2 sheets Descriptive_Statistics, Branch_Calculations Explain Steps for Descriptive Statistics. |
 
 ---
 
@@ -58,18 +58,18 @@ The dataset was deliberately messy. We dealt with **7 distinct types of dirty da
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 - **Microsoft Excel** (PivotTables, CORREL, AVERAGEIF, IQR, standard deviation)
 - **Statistical Concepts:** Mean, Median, Mode, Standard Deviation, IQR, Correlation, Skewness, CV.
 
 ---
 
-## 💡 Key Takeaway
+##  Key Takeaway
 > *"Clean data lies too, whenever it is summarized carelessly."*  
 > The arithmetic was correct, but choosing the **median** over the **mean** completely changed the story. Always check the shape of your distribution before reporting an average.
 
 ---
 
 ## 🔗 Related Projects
-- 🚀 **[Main BI Project: SalesPulse Dashboard](https://github.com/DoniaHabib1/salesPulse-analytics-dashboard)**
-- 📊 **[Case Study 2: The Placement Report Dispute](../Case-Study-2-Placement-Report/)**
+-  **[Main BI Project: SalesPulse Dashboard](https://github.com/DoniaHabib1/salesPulse-analytics-dashboard)**
+-  **[Case Study 2: The Placement Report Dispute](../Case-Study-2-Placement-Report/)**
